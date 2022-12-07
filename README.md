@@ -20,7 +20,9 @@
 
 <p align="center">
 
-_[ A brief synopsis of this library ]._
+OpenAI has trained cutting-edge language models that are very good at understanding and generating text. Our API provides access to these models and can be used to solve virtually any task that involves processing language.
+
+This is a wrapper around OpenAI's API built with Swift
 
 <p />
 
