@@ -20,9 +20,9 @@
 
 <p align="center">
 
-OpenAI has trained cutting-edge language models that are very good at understanding and generating text. Our API provides access to these models and can be used to solve virtually any task that involves processing language.
+OpenAI has trained cutting-edge language models that are very good at understanding and generating text. The API provides access to these models and can be used to solve virtually any task that involves processing language.
 
-This is a wrapper around OpenAI's API built with Swift
+This is a wrapper around OpenAI's API built with Swift and Vapor, a backend solution written in Swift.
 
 <p />
 
